@@ -48,7 +48,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
 
 - **Tools:**
- <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=plastic&logo=github-actions&logoColor=white"/>
