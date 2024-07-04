@@ -16,7 +16,6 @@ I am a passionate software engineer with extensive experience in full-stack web 
 ## 🛠 Technical Skills
 
 - **Languages:**
-<div align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
@@ -24,10 +23,8 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql-%23007396.svg?style=plastic&logo=sql&logoColor=white"/>
-</div>
 
 - **Libraries/Frameworks:**
-<span align="left">
   <!-- Libraries/Frameworks -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
@@ -43,18 +40,14 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/magento-%23EE672F.svg?style=plastic&logo=magento&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlalchemy-%23d65a34.svg?style=plastic&logo=sqlalchemy&logoColor=white"/>
-  </span>
 
 - **Databases:**
-<span align="left">
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql_server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
-</span>
 
 - **Tools:**
-<span align="left">
  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
@@ -64,7 +57,6 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=plastic&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white"/>
 
-</span>
 
 - **Expertise:**
 <span align="left">
