@@ -8,7 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate software engineer with extensive experience in full-stack web development, database management, and teaching. My career spans over a decade, beginning with web development, progressing to database administration, then transitioning to academia as a software engineering professor, and now coming full circle back to being a full-time engineer. I enjoy building scalable, testable applications and mentoring the next generation of developers. My diverse background equips me with a unique perspective and a comprehensive skill set that I bring to every project
+I am a passionate software engineer with extensive experience in full-stack web development, database management, and teaching. My career spans over a decade, beginning with web development, progressing to database administration, transitioning to academia as a software engineering professor, and eventually becoming a lead instructor at a prominent coding bootcamp in San Francisco, California. However, the "coding gods" have spoken, and I am now coming full circle back to being a full-time engineer.
+
+I enjoy building scalable, testable applications and mentoring the next generation of developers. My diverse background equips me with a unique perspective and a comprehensive skill set that I bring to every project.
 
 
 ---
@@ -87,4 +89,4 @@ I am a passionate software engineer with extensive experience in full-stack web 
 
 ---
 
-Thank you for visiting my profile! Let's build something amazing together.
+Thank you for visiting my profile! Let's build something amazing together!
