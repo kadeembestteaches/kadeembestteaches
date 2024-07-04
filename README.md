@@ -27,7 +27,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
 </div>
 
 - **Libraries/Frameworks:**
-<div align="left">
+<span align="left">
   <!-- Libraries/Frameworks -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
@@ -43,18 +43,18 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/magento-%23EE672F.svg?style=plastic&logo=magento&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlalchemy-%23d65a34.svg?style=plastic&logo=sqlalchemy&logoColor=white"/>
-  </div>
+  </span>
 
 - **Databases:**
-<div align="left">
+<span align="left">
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql_server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
-</div>
+</span>
 
 - **Tools:**
-<div align="left">
+<span align="left">
  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
@@ -64,10 +64,10 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=plastic&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white"/>
 
-</div>
+</span>
 
 - **Expertise:**
-<div align="left">
+<span align="left">
 <!-- Link to Font Awesome CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <!-- Expertise with Icons -->
@@ -82,7 +82,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <p><i class="fas fa-tasks"></i> High Coverage Maintenance</p>
   <p><i class="fas fa-chart-line"></i> Performance Monitoring</p>
   <p><i class="fas fa-users"></i> Agile Development Methodologies</p>
-</div>
+</span>
 
 
 
