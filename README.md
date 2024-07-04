@@ -58,18 +58,17 @@ I am a passionate software engineer with extensive experience in full-stack web 
 
 
 - **Expertise:**
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  <i class="fas fa-code"></i> Full Stack Web Development
-  <i class="fas fa-cloud"></i> RESTful API Design and Development
-  <i class="fas fa-database"></i> Database Design & Development
-  <i class="fas fa-project-diagram"></i> Data Modeling
-  <i class="fas fa-cubes"></i> Microservices Architecture Design and Implementation
-  <i class="fas fa-check-square"></i> Test-Driven Development (TDD)
-  <i class="fas fa-sync-alt"></i> CI/CD Pipeline Setup and Management
-  <i class="fas fa-robot"></i> Test Automation
-  <i class="fas fa-tasks"></i> High Coverage Maintenance
-  <i class="fas fa-chart-line"></i> Performance Monitoring
-  <i class="fas fa-users"></i> Agile Development Methodologies
+  - 🖥️ Full Stack Web Development
+  - 🌐 RESTful API Design and Development
+  - 🗄️ Database Design & Development
+  - 📊 Data Modeling
+  - ✅ Test-Driven Development (TDD)
+  - 🔄 CI/CD Pipeline Setup and Management
+  - 🤖 Test Automation
+  - 🛡️ High Coverage Maintenance
+  - 📈 Performance Monitoring
+  - 🛠️ Microservices Architecture Design and Implementation
+  - 🧑‍💼 Agile Development Methodologies
 
 ---
 
