@@ -16,7 +16,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
 ## 🛠 Technical Skills
 
 - **Languages:**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
@@ -27,7 +27,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
 </div>
 
 - **Libraries/Frameworks:**
-<div align="center">
+<div align="left">
   <!-- Libraries/Frameworks -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
@@ -46,7 +46,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
   </div>
 
 - **Databases:**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql_server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
@@ -54,7 +54,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
 </div>
 
 - **Tools:**
-<div align="center">
+<div align="left">
  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
@@ -67,7 +67,9 @@ I am a passionate software engineer with extensive experience in full-stack web 
 </div>
 
 - **Expertise:**
-<div align="center">
+<div align="left">
+<!-- Link to Font Awesome CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <!-- Expertise with Icons -->
   <p><i class="fas fa-code"></i> Full Stack Web Development</p>
   <p><i class="fas fa-cloud"></i> RESTful API Design and Development</p>
@@ -82,8 +84,7 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <p><i class="fas fa-users"></i> Agile Development Methodologies</p>
 </div>
 
-<!-- Link to Font Awesome CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
 
 
 
@@ -92,10 +93,10 @@ I am a passionate software engineer with extensive experience in full-stack web 
 ## 🚀 Current Project
 
 ### Fitness Coach Client Management System
-**Role:** Lead Developer
-**Description:** Developing a comprehensive system to simplify and enhance the management of fitness training between coaches and their clients.
-**Tech Stack:** React Native, Express (TypeScript with ESM), PostgreSQL, Supabase
-**Third-Party Integration:** Supabase for file uploads, authentication, and real-time data synchronization and notifications. Google Calendar API for calendar management, and Gmail API for email integration to send notifications, reminders, and updates.
+- **Role:** Lead Developer
+- **Description:** Developing a comprehensive system to simplify and enhance the management of fitness training between coaches and their clients.
+- **Tech Stack:** React Native, Express (TypeScript with ESM), PostgreSQL, Supabase
+- **Third-Party Integration:** Supabase for file uploads, authentication, and real-time data synchronization and notifications. Google Calendar API for calendar management, and Gmail API for email integration to send notifications, reminders, and updates.
 
 
 ## 📫 Connect with Me
