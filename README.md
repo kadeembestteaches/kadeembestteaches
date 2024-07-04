@@ -25,7 +25,6 @@ I am a passionate software engineer with extensive experience in full-stack web 
   <img src="https://img.shields.io/badge/sql-%23007396.svg?style=plastic&logo=sql&logoColor=white"/>
 
 - **Libraries/Frameworks:**
-  <!-- Libraries/Frameworks -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_testing_library-%23E33332.svg?style=plastic&logo=testing-library&logoColor=white"/>
@@ -59,26 +58,18 @@ I am a passionate software engineer with extensive experience in full-stack web 
 
 
 - **Expertise:**
-<span align="left">
-<!-- Link to Font Awesome CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  <!-- Expertise with Icons -->
-  <p><i class="fas fa-code"></i> Full Stack Web Development</p>
-  <p><i class="fas fa-cloud"></i> RESTful API Design and Development</p>
-  <p><i class="fas fa-database"></i> Database Design & Development</p>
-  <p><i class="fas fa-project-diagram"></i> Data Modeling</p>
-  <p><i class="fas fa-cubes"></i> Microservices Architecture Design and Implementation</p>
-  <p><i class="fas fa-check-square"></i> Test-Driven Development (TDD)</p>
-  <p><i class="fas fa-sync-alt"></i> CI/CD Pipeline Setup and Management</p>
-  <p><i class="fas fa-robot"></i> Test Automation</p>
-  <p><i class="fas fa-tasks"></i> High Coverage Maintenance</p>
-  <p><i class="fas fa-chart-line"></i> Performance Monitoring</p>
-  <p><i class="fas fa-users"></i> Agile Development Methodologies</p>
-</span>
-
-
-
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <i class="fas fa-code"></i> Full Stack Web Development
+  <i class="fas fa-cloud"></i> RESTful API Design and Development
+  <i class="fas fa-database"></i> Database Design & Development
+  <i class="fas fa-project-diagram"></i> Data Modeling
+  <i class="fas fa-cubes"></i> Microservices Architecture Design and Implementation
+  <i class="fas fa-check-square"></i> Test-Driven Development (TDD)
+  <i class="fas fa-sync-alt"></i> CI/CD Pipeline Setup and Management
+  <i class="fas fa-robot"></i> Test Automation
+  <i class="fas fa-tasks"></i> High Coverage Maintenance
+  <i class="fas fa-chart-line"></i> Performance Monitoring
+  <i class="fas fa-users"></i> Agile Development Methodologies
 
 ---
 
