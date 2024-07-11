@@ -77,18 +77,18 @@ I enjoy building scalable, testable applications and mentoring the next generati
 ## 🚀 Current Project
 
 ### Tenant and Property Management App
-**July 2024 – Present**
-**Role:** Lead Developer
-**Tech Stack:** React Native, Express, PostgreSQL, and Supabase
-**Description:** Developing an app for property owners to manage tenant relationships, featuring user registration, document verification, feedback submission, and data search.
-**Integrations:** Supabase (file uploads, authentication), Stripe (payments), Twilio (SMS notifications), SendGrid (emails)
+- **July 2024 – Present**
+- **Role:** Lead Developer
+- **Tech Stack:** React Native, Express, PostgreSQL, and Supabase
+- **Description:** Developing an app for property owners to manage tenant relationships, featuring user registration, document verification, feedback submission, and data search.
+- **Integrations:** Supabase (file uploads, authentication), Stripe (payments), Twilio (SMS notifications), SendGrid (emails)
 
 ### Canadian Citizenship Test Preparation App
-**July 2024 – Present**
-**Role:** Lead Developer
-**Tech Stack:** React Native, Express, PostgreSQL, and Supabase
-**Description:** Developing an app to help permanent residents prepare for the Canadian citizenship test with features like user login, demo tests, result storage, and progress tracking.
-**Integrations:** Supabase (file uploads, authentication), Google Calendar API (scheduling), Gmail API (email notifications), OneSignal (push notifications)
+- **July 2024 – Present**
+- **Role:** Lead Developer
+- **Tech Stack:** React Native, Express, PostgreSQL, and Supabase
+- **Description:** Developing an app to help permanent residents prepare for the Canadian citizenship test with features like user login, demo tests, result storage, and progress tracking.
+- **Integrations:** Supabase (file uploads, authentication), Google Calendar API (scheduling), Gmail API (email notifications), OneSignal (push notifications)
 
 ---
 
