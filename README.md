@@ -74,7 +74,7 @@ I enjoy building scalable, testable applications and mentoring the next generati
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Projects
 
 ### Tenant and Property Management App
 - **July 2024 – Present**
