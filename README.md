@@ -77,18 +77,13 @@ I enjoy building scalable, testable applications and mentoring the next generati
 ## 🚀 Current Projects
 
 ### Tenant and Property Management App
-- **July 2024 – Present**
+- **October 2024 – Present**
 - **Role:** Lead Developer
-- **Tech Stack:** React Native, Express, PostgreSQL, and Supabase
-- **Description:** Developing an app for property owners to manage tenant relationships, featuring user registration, document verification, feedback submission, and data search.
+- **Tech Stack:** Next.js (full-stack), Supabase, PostgreSQL
+- **Description:** Developing an app for property owners to manage tenant relationships.
+- **Features**  User and landlord registration, document verification, feedback submission, and advanced data search capabilities.
 - **Integrations:** Supabase (file uploads, authentication), Stripe (payments), Twilio (SMS notifications), SendGrid (emails)
 
-### Canadian Citizenship Test Preparation App
-- **July 2024 – Present**
-- **Role:** Lead Developer
-- **Tech Stack:** React Native, Express, PostgreSQL, and Supabase
-- **Description:** Developing an app to help permanent residents prepare for the Canadian citizenship test with features like user login, demo tests, result storage, and progress tracking.
-- **Integrations:** Supabase (file uploads, authentication), Google Calendar API (scheduling), Gmail API (email notifications), OneSignal (push notifications)
 
 ---
 
